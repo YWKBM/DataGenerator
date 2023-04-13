@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cXO4d4mDNwTX3hvcxkmNlfvEzUDj1Gzme2of1Cfy+2bj7cH3lI/8gu3iAuWlUHbDN+xb9TYm2viFqbamAYGoTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IVAN\\source\\repos\\DataGenerator\\DataGenerator.BL.Test\\DataGenerator.BL.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IVAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\IVAN\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\IVAN\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
